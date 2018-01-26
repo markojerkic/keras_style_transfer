@@ -5,7 +5,7 @@ This is the repository for the code presented in [this](http://markojerkic.com/s
 
 ## Results
 <p align="center">
-    <p align="vertical">
+    <p align="horizontal">
       <img src="https://i0.wp.com/markojerkic.com/wp-content/uploads/2018/01/rob_cont.jpg" width="350"/>
       <img src="https://i1.wp.com/markojerkic.com/wp-content/uploads/2018/01/rob.jpg" width="350"/>
   </p>
