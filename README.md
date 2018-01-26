@@ -11,3 +11,6 @@ This is the repository for the code presented in [this](http://markojerkic.com/s
   </p>
   <img src="https://i2.wp.com/markojerkic.com/wp-content/uploads/2018/01/naked.jpg" width="350"/>
 </p>
+
+## Influence
+This programm was inspired by the original [paper](https://arxiv.org/abs/1705.04058), and the [official Keras turorial[(https://github.com/keras-team/keras/tree/master/examples).
