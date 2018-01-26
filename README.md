@@ -13,4 +13,4 @@ This is the repository for the code presented in [this](http://markojerkic.com/s
 </p>
 
 ## Influence
-This programm was inspired by the original [paper](https://arxiv.org/abs/1705.04058), and the [official Keras turorial[(https://github.com/keras-team/keras/tree/master/examples).
+This programm was inspired by the original [paper](https://arxiv.org/abs/1705.04058), and the [official Keras turorial](https://github.com/keras-team/keras/tree/master/examples).
