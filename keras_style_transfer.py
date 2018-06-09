@@ -1,5 +1,5 @@
+# This code is written for Tensorflow 1.8
 import time
-
 import numpy as np
 import tensorflow.contrib.keras.api.keras.backend as K
 from scipy.misc import imsave, imresize
@@ -118,7 +118,7 @@ def total_variation_loss(x):
     return K.sum(K.pow(a + b, 1.25))
 
 
-loss = K.variable(0.)
+loss = 0.
 # For content loss, we're using the 2nd convolutional layer form
 # the 5th block
 layer_features = outputs_dict['block5_conv2']

@@ -3,6 +3,8 @@ Implementation of the neural style tranfer script using Keras
 
 This is the repository for the code presented in [this](http://markojerkic.com/style-transfer-keras/) blog post.
 
+This code is written for Tensorflow 1.8.
+
 ## Results
 <p align="center">
     <p align="horizontal">
